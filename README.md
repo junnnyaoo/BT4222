@@ -1,3 +1,4 @@
+## Sentiment Analysis for University Course Reviews
 This project was done for our NUS module: BT4222 Mining Web Data for Business Insights.
 
 This project aims to create models to predict sentiments and extract key information and topics from course reviews to help students and professors analyze them with ease.
