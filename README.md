@@ -9,9 +9,9 @@ The code is separated into 2 notebooks. One contains the data pre-processing and
 
 Done by:
 
-Gui Jun Yao
-Audrey Goo
-Chan Choon Leng
-Carissa Ying
-Kuek Yan Ling
+Gui Jun Yao  
+Audrey Goo  
+Chan Choon Leng  
+Carissa Ying  
+Kuek Yan Ling  
 Chanell Ng
